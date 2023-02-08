@@ -50,6 +50,7 @@ E agora pode-se executar o arquivo
 
 ## Recompilar o projeto (Não recomendado)
 *não consegui instalar o sdk no lab, então não sei se funciona, mas era pra ser algo assim*
+
 Para isso será necessario instalar o sdk do dotnet 6
 
 ```
