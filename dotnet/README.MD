@@ -34,11 +34,11 @@ dotnet --version
 Você deve ver a versão do .NET runtime instalado, como 6.0.x.
 
 
-## Rodar o projeto
+# Rodar o projeto
 
 Disponibilizei o projeto compilado em um executavel ``Interop.Core`` para uma build linux-x64 na pasta ``build``
 
-Basta definir as permissões para o arquivo usando 
+Basta navegar para a pasta ``build`` e definir as permissões para o arquivo usando 
 ```
 chmod 777 ./Interop.Core
 ```
