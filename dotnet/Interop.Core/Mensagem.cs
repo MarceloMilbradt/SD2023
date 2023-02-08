@@ -1,0 +1,1 @@
+﻿record Mensagem(DateTime DataHora, string Conteudo, Guid Id);

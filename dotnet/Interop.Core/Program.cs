@@ -1,8 +1,10 @@
-﻿using System.Net.Http.Json;
+﻿using Interop.Core;
+using System.Net.Http.Json;
 
 HttpClient httpClient = new HttpClient();
 Mensagem mensagem;
 
+//Le o console por argumentos do executavel
 if (args.Length > 0)
 {
     var conteudo = args[0];
@@ -12,17 +14,11 @@ else
 {
     mensagem = new Mensagem(DateTime.Now, "Nenhuma Mensagem!", Guid.NewGuid());
 }
-var defaultColor = Console.ForegroundColor;
-Console.WriteLine("Enviando Mensagem ao firebase!");
 
-Console.ForegroundColor = ConsoleColor.Cyan;
-Console.WriteLine(mensagem);
+//Escreve a mensagem no console
+Print.Message(mensagem);
 
 var response = await httpClient.PostAsJsonAsync("https://projetosd-d46bb-default-rtdb.firebaseio.com/interop.json", mensagem);
-Console.WriteLine();
 
-Console.ForegroundColor = ConsoleColor.DarkGreen;
-Console.WriteLine(response);
-Console.ForegroundColor = defaultColor;
-
-record Mensagem(DateTime DataHora, string Conteudo, Guid Id);
+//Escreve a resposta no console
+await Print.Response(response);
