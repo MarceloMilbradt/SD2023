@@ -1,0 +1,15 @@
+E:\CsharpProjs\SD2023\Interop.Core\bin\Release\net6.0\Interop.Core.exe
+E:\CsharpProjs\SD2023\Interop.Core\bin\Release\net6.0\Interop.Core.deps.json
+E:\CsharpProjs\SD2023\Interop.Core\bin\Release\net6.0\Interop.Core.runtimeconfig.json
+E:\CsharpProjs\SD2023\Interop.Core\bin\Release\net6.0\Interop.Core.dll
+E:\CsharpProjs\SD2023\Interop.Core\bin\Release\net6.0\Interop.Core.pdb
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.csproj.AssemblyReference.cache
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.AssemblyInfoInputs.cache
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.AssemblyInfo.cs
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.csproj.CoreCompileInputs.cache
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.dll
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\refint\Interop.Core.dll
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.pdb
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\Interop.Core.genruntimeconfig.cache
+E:\CsharpProjs\SD2023\Interop.Core\obj\Release\net6.0\ref\Interop.Core.dll

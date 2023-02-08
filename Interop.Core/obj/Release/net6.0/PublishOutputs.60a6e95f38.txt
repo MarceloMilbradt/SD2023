@@ -1,0 +1,5 @@
+E:\CsharpProjs\SD2023\Interop.Core\bin\publish\any\Interop.Core.exe
+E:\CsharpProjs\SD2023\Interop.Core\bin\publish\any\Interop.Core.dll
+E:\CsharpProjs\SD2023\Interop.Core\bin\publish\any\Interop.Core.deps.json
+E:\CsharpProjs\SD2023\Interop.Core\bin\publish\any\Interop.Core.runtimeconfig.json
+E:\CsharpProjs\SD2023\Interop.Core\bin\publish\any\Interop.Core.pdb
