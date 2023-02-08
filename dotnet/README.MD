@@ -25,15 +25,6 @@ Instale o .NET runtime:
 sudo apt-get install -y dotnet-runtime-6.0
 ```
 
-Verifique se a instalação foi bem-sucedida:
-
-```
-dotnet --version
-```
-
-Você deve ver a versão do .NET runtime instalado, como 6.0.x.
-
-
 # Rodar o projeto
 
 Disponibilizei o projeto compilado em um executavel ``Interop.Core`` para uma build linux-x64 na pasta ``build``
