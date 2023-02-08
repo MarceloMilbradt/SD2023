@@ -3,6 +3,8 @@
 - Gian
 - Marcelo
 
+Linguagens C# (.NET) e JS (Node)
+
 ## Trabalho 4 de Sistemas distribuidos
 
 ### Descrição do trabalho:
